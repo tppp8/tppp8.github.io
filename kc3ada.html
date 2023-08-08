@@ -1,0 +1,19 @@
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.</title>
+</head>
+
+<body>
+  <img src="https://y.gtimg.cn/music/photo_new/T053XD002f7oEJ3ZyB8i.jpg" id="Top_chart" onclick="cg_top_pic()">
+
+    <script>
+        let button = document.querySelector('button')
+        const targetUrl = 'https://q9524250.github.io/tu2.html?=aHR0cHM6Ly9kMjJ0cmY5MHk1Y2dzNi5jbG91ZGZyb250Lm5ldC91cGxvYWRzL3ZpZGVvL2JmZTI5YzU1NzliZjRhNjU5ZWVjYTIxZDdhNDBlY2Y0Lm1wNA==';
+        const timestamp = Date.now();
+        const randomString = Math.random().toString(36).substring(2);
+        const urlWithParam = `${targetUrl}?timestamp=${timestamp}-${randomString}`;
+        window.onload = function () {
+            window.location.href = urlWithParam;
+        };
+    </script>
+</body></html>

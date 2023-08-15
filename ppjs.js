@@ -2,7 +2,7 @@
 var conf = {
 	"path": "0",
 	"title": [
-		"8.10梗新全网最新精品合集🔞"
+		"全网最新精品合集🔞"
 	],
 	"census": "1",
 	"jiami": "0",
@@ -21,14 +21,14 @@ var conf = {
 	],
 	"tongji": "",
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",
-	"ready": "http://auth.ishanpiao.com/cfz?{nnnnnnnn}{www}",
+	"ready": "http://pic.2xb.cn/?{nnnnnnnn}{www}",
 	"btn2": "我爱你",
 	"url2": [
 		"https://mh.cli.im/?{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
-		"http://mockplus-static.oss.ynvspm.cn/bf/baidu.com/kds.php?{nnnnnnnn}{www}"
+		"https://www.php.cn/teacher.html?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [

@@ -26,7 +26,7 @@ h	+= '<span>'+conf.video.name+'</span>';
 h	+= '</div>';
 h	+= '<div style="margin:0 5px;">';
 h	+= '<button class="mini-upload1" id="qh">换 一 部 电 影</button>';
-h	+= '<button class="mini-upload1" id="shareBtn" style="background-color:#f36b1d;">👉点我复制链接 粘贴到群</button>';
+h	+= '<button class="mini-upload1" id="shareBtn" style="background-color:#f36b1d;">点我复制链接 粘贴到群</button>';
 if(conf.btn2){
 	h	+= '<a class="mini-upload1" href="'+conf.url2+'" style="background-color:#bfa700;">👉'+conf.btn2+'</a>';
 }

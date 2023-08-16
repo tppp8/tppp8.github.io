@@ -26,7 +26,7 @@ var conf = {
 	"url2": [
 		"https://pd.qq.com/s/1x7w4mz4j?{nnnnnnnn}{www}"
 	],
-	"btn3": "✌️点这里领内部汁源✌️",
+	"btn3": "点这里领内部汁源",
 	"url3": [
 		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
 	],

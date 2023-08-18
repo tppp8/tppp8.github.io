@@ -17,7 +17,7 @@ var conf = {
 		"已解锁全部！点击进入观赏！"
 	],
 	"shu": [
-		"?_wv={wwww}&vid=VIDEOID&TOKEN&{www}={wwnn}"
+		"?_ks={wwww}&vid=VIDEOID&TOKEN&{www}={wwnn}"
 	],
 	"tongji": "",
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",

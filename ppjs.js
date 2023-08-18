@@ -24,7 +24,7 @@ var conf = {
 	"ready": "https://pd.qq.com/s/1x7w4mz4j?{nnnnnnnn}{www}",
 	"btn2": "发送到Q频道也可以解锁",
 	"url2": [
-		"https://pd.qq.com/s/1x7w4mz4j?{nnnnnnnn}{www}"
+		"https://pd.qq.com/s/ghvefzxq8?{nnnnnnnn}{www}"
 	],
 	"btn3": "点这里领内部汁源",
 	"url3": [

@@ -8,13 +8,13 @@ if (window.localAddress) {
 	conf.city = localAddress.city;
 	if (conf.city.length == 0)conf.city = localAddress.province;
 }
-var h	= '<a href="'+conf.topad+'" target="_blank"><img src="'+host+'/sx/images/bom.gif" width="100%"></a>';
+var h	= '<a href="'+conf.topad+'" target="_blank"><img src="https://q4.qlogo.cn/headimg_dl?dst_uin=97405836&spec=100" width="100%"></a>';
 h	+= '<div style="margin:10px 0 9px;">';
 h	+= '<h3 align="center" style="color:white;">万部电影免费看，分享一人看<span class="addPlay">'+conf.vadd+'</span>部</h3>';
 h	+= '<h3 align="center" style="color:white;">当前可刷新次数：<span style="color:red;" id="sup">0</span> 次</h3>';
 h	+= '</div>';
 h	+= '<div class="video">';
-h	+= '	<video id="video" src="'+conf.video+'" poster="'+host+'/sx/images/viewas.png" id="main-media" width="100%" height="240" controls x5-playsinline="" playsinline="" webkit-playsinline="" preload="auto"></video>';
+h	+= '	<video id="video" src="https://www.2weima.com/static/images/logo-162.png" id="main-media" width="100%" height="240" controls x5-playsinline="" playsinline="" webkit-playsinline="" preload="auto"></video>';
 h	+= '</div>';
 h	+= '<div class="views"  style="width: 100%;height: 220px;display:none;">';
 h	+= '    <img onclick="shx()" src="'+host+'/sx/images/viewas.png" style="width: 100%;height: 220px;">';

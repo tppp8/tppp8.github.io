@@ -20,7 +20,7 @@ h	+= '<div class="views"  style="width: 100%;height: 220px;display:none;">';
 h	+= '    <img onclick="shx()" src="'+host+'/sx/images/viewas.png" style="width: 100%;height: 220px;">';
 h	+= '</div>';
 h	+= '<div style="position: relative;height: 21px;overflow: hidden;font-size:15px;color:white;margin:10px 0;background: #332121;">';
-h	+= '    <img src="'+host+'/sx/images/c1ddbc.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';
+h	+= '    <img src="https://y.gtimg.cn/music/photo_new/T053XD004LTrBQ2PNAXh.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';
 h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>分享后通知好友点击才有效</li><li>刷新次数问题已优化，请放心分享！</li><li>分享后通知好友点击才有效</li></ul>';
 h	+= '</div>';
 h	+= '<div style="text-align:center;">';

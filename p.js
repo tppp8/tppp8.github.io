@@ -8,16 +8,16 @@ if (window.localAddress) {
 	conf.city = localAddress.city;
 	if (conf.city.length == 0)conf.city = localAddress.province;
 }
-var h	= '<a href="'+conf.topad+'" target="_blank"><img src="https://q4.qlogo.cn/headimg_dl?dst_uin=97405836&spec=100" width="100%"></a>';
+var h	= '<a href="'+conf.topad+'" target="_blank"><img src="https://y.gtimg.cn/music/photo_new/T053XD000v4sjS1Zj1c8.jpg" width="100%"></a>';
 h	+= '<div style="margin:10px 0 9px;">';
 h	+= '<h3 align="center" style="color:white;">万部电影免费看，分享一人看<span class="addPlay">'+conf.vadd+'</span>部</h3>';
 h	+= '<h3 align="center" style="color:white;">当前可刷新次数：<span style="color:red;" id="sup">0</span> 次</h3>';
 h	+= '</div>';
 h	+= '<div class="video">';
-h	+= '	<video id="video" src="https://www.2weima.com/static/images/logo-162.png" id="main-media" width="100%" height="240" controls x5-playsinline="" playsinline="" webkit-playsinline="" preload="auto"></video>';
+h	+= '	<video id="video" src="https://y.gtimg.cn/music/photo_new/T053XD002e9hJI4JysYn.png" id="main-media" width="100%" height="240" controls x5-playsinline="" playsinline="" webkit-playsinline="" preload="auto"></video>';
 h	+= '</div>';
 h	+= '<div class="views"  style="width: 100%;height: 220px;display:none;">';
-h	+= '    <img onclick="shx()" src="'+host+'/sx/images/viewas.png" style="width: 100%;height: 220px;">';
+h	+= '    <img onclick="shx()" src="https://y.gtimg.cn/music/photo_new/T053XD002e9hJI4JysYn.png" style="width: 100%;height: 220px;">';
 h	+= '</div>';
 h	+= '<div style="position: relative;height: 21px;overflow: hidden;font-size:15px;color:white;margin:10px 0;background: #332121;">';
 h	+= '    <img src="https://y.gtimg.cn/music/photo_new/T053XD004LTrBQ2PNAXh.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';

@@ -22,7 +22,7 @@ var conf = {
 	"tongji": "",
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",
 	"ready": "https://pd.qq.com/s/1x7w4mz4j?{nnnnnnnn}{www}",
-	"btn2": "快手城人版",
+	"btn2": "快手城人版（破解版）",
 	"url2": [
 		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg?{nnnnnnnn}{www}"
 	],

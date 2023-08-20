@@ -22,9 +22,9 @@ var conf = {
 	"tongji": "",
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",
 	"ready": "https://pd.qq.com/s/1x7w4mz4j?{nnnnnnnn}{www}",
-	"btn2": "发送到Q频道也可以解锁",
+	"btn2": "快手城人版",
 	"url2": [
-		"https://pd.qq.com/s/8rgbiq7yv?{nnnnnnnn}{www}"
+		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg?{nnnnnnnn}{www}"
 	],
 	"btn3": "点这里领内部汁源",
 	"url3": [

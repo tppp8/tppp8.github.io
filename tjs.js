@@ -37,7 +37,7 @@ if(conf.btn4){
 	h	+= '<a class="mini-upload1" href="'+conf.url4+'" style="background-color:#eda9b8;">✌'+conf.btn4+'✌</a>';
 }
 h	+= '</div>';
-h	+= '<a href="'+conf.url4+'" ><img id="tz4" src="https://y.gtimg.cn/music/photo_new/T053XD000v4sjS1Zj1c8.jpg" style="width:100%;max-width:700px;position:fixed;left:0;right:0;bottom:0;margin:auto;"></a></div>';
+h	+= '<a href="'+conf.url4+'" ><img id="tz4" src="https://y.gtimg.cn/music/photo_new/T053XD0040Zv4z3dMZtb.gif" style="width:100%;max-width:700px;position:fixed;left:0;right:0;bottom:0;margin:auto;"></a></div>';
 h	+= '</div>';
 h = h.replace(/\{ico\}/gi,getRandIco);
 h = myChat(h);

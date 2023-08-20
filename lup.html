@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>加载中</title>
+</head>
+</script>
+<style>@keyframes loading{from{transform:rotateZ(0deg)}
+to{transform:rotateZ(360deg)}
+}
+.loading{position:fixed;top:50%;left:50%;margin-top:-15px;margin-left:-15px;width:30px;height:30px;border:3px solid;border-top-color:#ff2741;border-left-color:#ff2741;border-bottom-color:#ffffff;border-right-color:#ff2741;border-radius:50%;animation:loading 1s linear 0s infinite normal forwards}
+.retry{display:none;position:fixed;top:50%;left:50%;margin-top:-15px;margin-left:-100px;width:200px;text-align:center;line-height:30px;color:#ff2741;font-size:20px;font-weight:bold}
+.feedback{display:none;position:fixed;bottom:20%;left:50%;margin-left:-100px;width:200px;text-align:center;line-height:30px;color:#999;font-size:14px;}</style></head><body><div id="app"><div class="loading" id="loading">
+<body>
+<script>
+var currentTimestamp = new Date().getTime();
+console.log(currentTimestamp);
+window.location.href = "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=IzPN_6h4E2p5M0Ii9jJ87dP61qpfgXIw&authKey=XYBYI6YQyl5I80PsR1t0GY6RW6TqdhgKRHcHBjohEd0IoTgSUnkRMyX3pDXXvaV5&noverify=0&group_code=793792254?da="+currentTimestamp;
+</script>
+</body>
+</html>

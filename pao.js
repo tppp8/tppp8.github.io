@@ -8,7 +8,7 @@ import { parseDom } from 'utils'
 export default class BulletScreenComponent {
   /**
    * @constructor 跑马灯构造函数
-   * @param {String text 跑马灯内容}
+   * @param {String text 跑马灯内11111111111111111容}
    * @param {Object style 跑马灯样式}
    * param {String bulletPosition 跑马灯所在的位置, 可能的值 'top', 'bottom' , 'random, 默认为 'random'}
    */

@@ -9,7 +9,7 @@ var conf = {
 	"deny": "0",
 	"cache": "86400",
 	"adth1": "此资源需要分享到QQ群才能解锁观看完整版！！点击确定后点击下方<br>“点我复制链接-粘贴到群”<br>粘贴到200人以上的QQ群即可解锁！！<br>完成之后打开发出去的链接观看！",
-	"sinfo": "🍉🍉网红大呱\r\n###\r\n如果上面打不开\r\n请+总 裙→https://9524250.github.io?{nnnnnnnn}{www}",
+	"sinfo": "🍉🍉网红大🍉\r\n###\r\n如果上面打不开\r\n请+总 裙→https://9524250.github.io?{nnnnnnnn}{www}",
 	"sht": [
 		"玩偶姐姐合集"
 	],

@@ -28,7 +28,7 @@ var conf = {
 	],
 	"btn3": "点这里领内部汁源",
 	"url3": [
-		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/b2fcc3024f78526dbbf261d9cded2b75#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [

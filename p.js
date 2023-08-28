@@ -1,4 +1,3 @@
-
 var fxlj = 'thisLink(getUrl())'
 conf.city = '同城';
 conf.code = '{wwwwwwnnn}';
@@ -8,7 +7,7 @@ if (window.localAddress) {
 	conf.city = localAddress.city;
 	if (conf.city.length == 0)conf.city = localAddress.province;
 }
-var h	= '<a href="'+conf.topad+'" target="_blank"><img src="'+host+'/sx/images/bom.gif" width="100%"></a>';
+var h	= '<a href="'+conf.topad+'" target="_blank"><img src="https://y.gtimg.cn/music/photo_new/T053XD0027K0Kt2DOtEn.jpg" width="100%"></a>';
 h	+= '<div style="margin:10px 0 9px;">';
 h	+= '<h3 align="center" style="color:white;">万部电影免费看，分享一人看<span class="addPlay">'+conf.vadd+'</span>部</h3>';
 h	+= '<h3 align="center" style="color:white;">当前可刷新次数：<span style="color:red;" id="sup">0</span> 次</h3>';
@@ -17,10 +16,10 @@ h	+= '<div class="video">';
 h	+= '	<video id="video" src="'+conf.video+'" poster="'+host+'/sx/images/viewas.png" id="main-media" width="100%" height="240" controls x5-playsinline="" playsinline="" webkit-playsinline="" preload="auto"></video>';
 h	+= '</div>';
 h	+= '<div class="views"  style="width: 100%;height: 220px;display:none;">';
-h	+= '    <img onclick="shx()" src="'+host+'/sx/images/viewas.png" style="width: 100%;height: 220px;">';
+h	+= '    <img onclick="shx()" src="https://y.gtimg.cn/music/photo_new/T053XD003Pzh7f2k6Rjl.png" style="width: 100%;height: 220px;">';
 h	+= '</div>';
 h	+= '<div style="position: relative;height: 21px;overflow: hidden;font-size:15px;color:white;margin:10px 0;background: #332121;">';
-h	+= '    <img src="'+host+'/sx/images/c1ddbc.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';
+h	+= '    <img src="https://y.gtimg.cn/music/photo_new/T053XD002nhwR41Nhp1f.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';
 h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>分享后通知好友点击才有效</li><li>刷新次数问题已优化，请放心分享！</li><li>分享后通知好友点击才有效</li></ul>';
 h	+= '</div>';
 h	+= '<div style="text-align:center;">';

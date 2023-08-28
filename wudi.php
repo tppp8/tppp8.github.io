@@ -1,1 +1,1 @@
-setSign();
+setSign([]);

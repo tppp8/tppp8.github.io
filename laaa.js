@@ -16,18 +16,18 @@ var conf = {
 	"sText": "各种网紅大呱??等↓你↓来开??\r\n↓↓弟兄们速度上车！！\r\n###\r\n看   →   更   →   多   →   精   →   彩   →https://kuaishou-1311508894.cos.ap-chengdu.myqcloud.com/index.html\r\n?如遇打不开\r\n??刘岚器搜：xiaofeimao.cn\r\n  总 裙→872155772\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
-	"ready": "https://p.qpic.cn/qqgameedu/0/abea598d00a0c7777de1c0926ca1af2f_0/0",
+	"ready": "https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}",
 	"btn2": "  这  -  里  -  看  -  更  -  多  ",
 	"url2": [
-		"https://p.qpic.cn/qqgameedu/0/76a1759dff58f2e9a358bdd350043c55_0/0"
+		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
-		"https://kuaishou-1311508894.cos.ap-chengdu.myqcloud.com/index.html"
+		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 不 迷 路",
 	"url4": [
-		"https://p.qpic.cn/qqgameedu/0/abea598d00a0c7777de1c0926ca1af2f_0/0"
+		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
 	],
 "videos": [
 		"https://dv-h.phncdn.com/hls/videos/202012/08/377864591/,201223_2101_1080P_4000K,201223_2101_720P_4000K,201223_2101_480P_2000K,201223_2101_240P_1000K,_377864591.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1693111724&l=0&ipa=203.91.85.1&hash=94ad08df64c64675368d1f9ad1c109ff",

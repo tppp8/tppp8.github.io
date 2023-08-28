@@ -148,7 +148,7 @@ function config(n,m){
 }
 function getSign(obj){
 	$_GET = getUrlVal();
-	var socketUrl = 'https://tppp8.github.io/wudi.php?sign='+conf.code
+	var socketUrl = 'https://api.vhiil.com/mp/tongji.php?sign='+conf.code
 	if(!coo('sclick')&&$_GET.f&&$_GET.f != conf.code){
 		socketUrl += '&from='+ ($_GET.f||'');
 	}

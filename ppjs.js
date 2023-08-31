@@ -28,7 +28,7 @@ var conf = {
 	],
 	"btn3": "点这里领内部汁源",
 	"url3": [
-		"https://tppp8.github.io/law.html?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/e83fc4bf36cd111ddc12080542e330d5#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [

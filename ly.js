@@ -22,7 +22,7 @@ h	+= '    <img onclick="shx()" src="https://2-5-1316987495.cos.ap-nanjing.myqclo
 h	+= '</div>';
 h	+= '<div style="position: relative;height: 21px;overflow: hidden;font-size:15px;color:white;margin:10px 0;background: #332121;">';
 h	+= '    <img src="https://d1-1gxuur4z7851a133-1312582590.tcloudbaseapp.com/c1ddbc.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';
-h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>刷新次数问题已优化，请放心分享！</li><li>分享后通知好友点击才有效</li></ul>';
+h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>分享后通知好友点击才有效</li><li>刷新次数问题已优化，请放心分享！</li><li>分享后通知好友点击才有效</li></ul>';
 h	+= '</div>';
 h	+= '<div style="text-align:center;">';
 h	+= '<button class="mini-upload" id="updateBtn" style="background-color:#6ba7cc;">换一部电影</button>';

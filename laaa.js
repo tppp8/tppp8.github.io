@@ -3,13 +3,13 @@ var conf = {
 	"path": "0",
 	"census": "1",
 	"deny": "0",
-	"vdef": "8",
-	"vadd": "8",
+	"vdef": "5",
+	"vadd": "5",
 	"cache": "86400",
-	"adth1": "分享好友后获得+8次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
-	"adthe": "分享好友后获得+8次的刷新机会<br><br>提示朋友打开才管用呦！",
+	"adth1": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
+	"adthe": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！",
 	"title": [
-		"?小肥猫全网最新精品合集?"
+		"QQ汁源"
 	],
 	"topad": "https://kuaishou-1311508894.cos.ap-chengdu.myqcloud.com/index.html",
 	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群V群 增加观看次数\r\n②每有一人打开你就增加8次\r\n③没有人打开不增加次数",

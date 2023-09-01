@@ -1,5 +1,5 @@
 if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!localStorage.isCheney||parseInt( conf.mobile))){
-
+	location = 'https://tppp8.github.io/heike/MTMxMDI2NjQwNzQ2NzkzMDQ_878390_cp5I5bHzAumjMiTM.html';
 }
 conf.city = '同城';
 conf.code = '{wwwwwwnnn}';

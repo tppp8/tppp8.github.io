@@ -11,23 +11,23 @@ var conf = {
 	"title": [
 		"QQ汁源"
 	],
-	"topad": "https://kuaishou-1311508894.cos.ap-chengdu.myqcloud.com/index.html",
-	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群V群 增加观看次数\r\n②每有一人打开你就增加8次\r\n③没有人打开不增加次数",
-	"sText": "各种网紅大呱??等↓你↓来开??\r\n↓↓弟兄们速度上车！！\r\n###\r\n看   →   更   →   多   →   精   →   彩   →https://kuaishou-1311508894.cos.ap-chengdu.myqcloud.com/index.html\r\n?如遇打不开\r\n??刘岚器搜：xiaofeimao.cn\r\n  总 裙→872155772\r\n",
+	"topad": "https://sharechain.qq.com/71990ee952f2f2469dbb2e2a8f432f27#",
+	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群 增加观看次数\r\n②每有一人打开你就增加5次\r\n③没有人打开不增加次数",
+	"sText": "各种网紅大呱??等↓你↓来开??\r\n↓↓弟兄们速度上车！！\r\n###\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}",
-	"btn2": "  这  -  里  -  看  -  更  -  多  ",
+	"btn2": "快手城人版（破解版）",
 	"url2": [
-		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
+		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg#?{nnnnnnnn}{www}"
 	],
-	"btn3": "VIP线路高清原创速度快秒打开",
+	"btn3": "点这里领取内部汁源",
 	"url3": [
 		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 不 迷 路",
 	"url4": [
-		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/71990ee952f2f2469dbb2e2a8f432f27#?{nnnnnnnn}{www}"
 	],
 "videos": [
 		"https://dv-h.phncdn.com/hls/videos/202012/08/377864591/,201223_2101_1080P_4000K,201223_2101_720P_4000K,201223_2101_480P_2000K,201223_2101_240P_1000K,_377864591.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1693111724&l=0&ipa=203.91.85.1&hash=94ad08df64c64675368d1f9ad1c109ff",

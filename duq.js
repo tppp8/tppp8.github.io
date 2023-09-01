@@ -19,7 +19,7 @@ var conf = {
 	"ready": "https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}",
 	"btn2": "快手城人版（破解版）",
 	"url2": [
-		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg#?{nnnnnnnn}{www}"
+		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg?{nnnnnnnn}{www}"
 	],
 	"btn3": "点这里领取内部汁源",
 	"url3": [

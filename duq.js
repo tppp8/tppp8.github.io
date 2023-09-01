@@ -13,7 +13,7 @@ var conf = {
 	],
 	"topad": "https://sharechain.qq.com/71990ee952f2f2469dbb2e2a8f432f27#?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群 增加观看次数\r\n②每有一人打开你就增加5次\r\n③没有人打开不增加次数",
-	"sText": "各种网紅大呱??等↓你↓来开??\r\n↓↓弟兄们速度上车！！\r\n###\r\n",
+	"sText": "各种网紅大呱?\r\n↓↓弟兄萌速度上车！！\r\n###",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}",

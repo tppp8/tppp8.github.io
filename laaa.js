@@ -16,14 +16,14 @@ var conf = {
 	"sText": "各种网紅大呱??等↓你↓来开??\r\n↓↓弟兄们速度上车！！\r\n###\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
-	"ready": "https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}",
+	"ready": "https://sharechain.qq.com/e83fc4bf36cd111ddc12080542e330d5#?{nnnnnnnn}{www}",
 	"btn2": "快手城人版（破解版）",
 	"url2": [
 		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg#?{nnnnnnnn}{www}"
 	],
 	"btn3": "点这里领取内部汁源",
 	"url3": [
-		"https://sharechain.qq.com/654a3c1244534f84860a5b0337dec0d5#?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/e83fc4bf36cd111ddc12080542e330d5#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 不 迷 路",
 	"url4": [

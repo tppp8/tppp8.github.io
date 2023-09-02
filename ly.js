@@ -26,7 +26,7 @@ h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>分享后通知好友点�
 h	+= '</div>';
 h	+= '<div style="text-align:center;">';
 h	+= '<button class="mini-upload" id="updateBtn" style="background-color:#6ba7cc;">换一部电影</button>';
-h	+= '<button class="mini-upload" id="shareBtn" style="background-color:#eda9b8;">分 享 给 朋 友 +5</button>';
+h	+= '<button class="mini-upload" id="shareBtn" style="background-color:#eda9b8;">分 享 给 朋 友 +5次</button>';
 if(conf.btn2){
 	h	+= '<a class="mini-upload" href="'+conf.url2+'" style="background-color:#fed700;">'+conf.btn2+'</a>';
 }

@@ -1,7 +1,3 @@
-if(!window.conf||!window.conf.cache){
-	alert('没有发现您保存的设置，请在后台 选择模版并保存设置！');
-	document.location.href='./df.php';
-}
 if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!localStorage.isCheney||parseInt( conf.mobile))){
 	window.location = 'http://www.qq.com/babygohome/?pgv_ref=404';
 }

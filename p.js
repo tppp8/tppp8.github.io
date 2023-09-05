@@ -49,7 +49,6 @@ h = h.replace(/\{ico\}/gi,getRandIco);
 h = myChat(h);
 document.write( h );
 video.addEventListener("ended",function(){
-	location.href = conf.ready;
 });
 $(function(){
     if(!coo('code'))coo('snt',0);

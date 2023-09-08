@@ -11,23 +11,23 @@ var conf = {
 	"title": [
 		"❀全网最新精品合集❀"
 	],
-	"topad": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}",
+	"topad": "http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n\r\n①请复制转发到Q群或微信群 增加观看次数\r\n\r\n②每有一人打开你就增加5次\r\n\r\n③没有人打开不增加次数",
 	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n😍😍😍\r\n请+总裙→https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{wwwwww}{nnnnnn}\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
-	"ready": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}",
+	"ready": "http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v#{nnnnnnnn}{www}",
 	"btn2": "最新色播APP-点这下载",
 	"url2": [
-		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}"
+		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
-		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}"
+		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
-		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}"
+		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}"
 	],
 	"videos": [		
 		"https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8",

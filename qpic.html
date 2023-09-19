@@ -4,6 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>跳转页面</title>
+<div>二次验证中.......</div>
 	<script>
 	if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!localStorage.idf||parseInt( conf.mobile))){
 		location = 'http://www.qq.com/babygohome/?pgv_ref=404';
@@ -14,8 +15,4 @@ var currentTimestamp = new Date().getTime();
 console.log(currentTimestamp);
 location.href = "https://tuuw.github.io/index.html?https://www.urlshare.cn/umirror_url_check?plateform=mqq.weiyun&url="+currentTimestamp;
 </script>
-</head>
-<body>
-<h1>二次验证中........</h1>
-</body>
-</html>
+

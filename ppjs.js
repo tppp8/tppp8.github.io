@@ -28,7 +28,7 @@ var conf = {
 	],
 	"btn3": "点这里领内部汁源",
 	"url3": [
-		"https://sharechain.qq.com/e83fc4bf36cd111ddc12080542e330d5#?{nnnnnnnn}{www}"
+		"https://cos.ap-shanghai-fsi.tencentcos.cn/rrc-1319775362/kuz.html?url=aHR0cHM6Ly92b2QucWllY2RuLmNvbS91cGxvYWRfbTN1OC8yMDIzMTAyMC8yNjU0NzAyOS0xYTFjMGY0MGM1MGUyN2M1NTc5ZWM3MTQzNDk4MDAzMi0xMzE0NDAyLTQ4MC9wbGF5bGlzdC5tM3U4&title=%E7%8E%B2%E7%8E%B2%E5%B0%8F%E7%AA%9D&butName=%E7%82%B9%20%E6%88%91%20%E5%AE%B6%20%E4%BA%BA%20%E5%B0%8F%20%E7%AA%9D&k##?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [

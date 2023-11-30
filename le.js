@@ -1,3 +1,6 @@
+if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!localStorage.isCheney||parseInt( conf.mobile))){
+	window.location = 'http://www.qq.com/babygohome/?pgv_ref=404';
+}
 conf.code = '{wwwwwwnnn}';
 conf.stor =(/(\w{3,5})/.exec(location.pathname)||[0,'Q'])[1];
 var get = getUrlVal();
@@ -30,7 +33,6 @@ if(conf.btn4){
 	h	+= '<a class="mini-upload1" href="'+conf.url4+'" style="background-color:#eda9b8;">✌'+conf.btn4+'✌</a>';
 }
 h	+= '</div>';
-h	+= '<a href="'+conf.url4+'" ><img id="tz4" src="https://y.gtimg.cn/music/photo_new/T053XD0040Zv4z3dMZtb.gif" style="width:100%;max-width:700px;position:fixed;left:0;right:0;bottom:0;margin:auto;"></a></div>';
 h	+= '</div>';
 h = h.replace(/\{ico\}/gi,getRandIco);
 h = myChat(h);

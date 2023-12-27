@@ -51,6 +51,7 @@ var conf = {
 		"src": "https://vod.qiecdn.com/upload_m3u8/20231227/26547029-e0845ea3cde8f617d39a331846cff2cf-1318783-720/playlist.m3u8",
 		"id": "85",
 		"time": "180"
+	}
 	},
 	"url1": [
 		""

@@ -52,6 +52,16 @@ var conf = {
 		"id": "86",
 		"time": "180"
 	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20231227/26620693-efdcf19520aa41b675d6fc87351602ee-1318784-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20231227/26620693-efdcf19520aa41b675d6fc87351602ee-1318784-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
 	],
 	"url1": [
 		""

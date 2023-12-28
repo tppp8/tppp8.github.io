@@ -333,7 +333,12 @@ var conf = {
 		"time": "180"
 	},
 	{
-		"src": "https://vod.qiecdn.com/upload_m3u8/20231228/26620693-38cb55d5fae46d58cf7cf52e1afd6779-1318853-480/playlist.m3u8",
+		"src": "https://vod.qiecdn.com/upload_m3u8/20231228/26620693-325f864ef5e3431678979925c045531c-1318854-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20231228/26620693-325f864ef5e3431678979925c045531c-1318854-480/playlist.m3u8",
 		"id": "86",
 		"time": "180"
 	},

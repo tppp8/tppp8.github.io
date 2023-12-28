@@ -43,16 +43,16 @@ var conf = {
 	],
 	"videolist": [
 	{
-		"src": "https://vod.qiecdn.com/upload_m3u8/20231227/26547029-2cae26663cc497749e933742d11a6cbd-1318782-480/playlist.m3u8",
+		"src": "https://gd-filems.dancf.com/0/mps/c8c79c2a17af40e491b4fd709618d37310289.mp4",
 		"id": "85",
 		"time": "180"
 	},
 	{
-		"src": "https://vod.qiecdn.com/upload_m3u8/20231227/26547029-e0845ea3cde8f617d39a331846cff2cf-1318783-720/playlist.m3u8",
+		"src": "https://d22trf90y5cgs6.cloudfront.net/uploads/video/6d1bd470e61c41079235c68c8311cb6d.mp4",
 		"id": "85",
 		"time": "180"
 	},
-	},
+	],
 	"url1": [
 		""
 	],

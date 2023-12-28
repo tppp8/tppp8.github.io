@@ -123,7 +123,37 @@ var conf = {
 		"time": "180"
 	},
 	{
-		"src": "https://vod.qiecdn.com/upload_m3u8/20231227/26620693-fcae32eeead7bc0ed3550ad2190d7b8c-1318798-320/playlist.m3u8",
+		"src": "https://vod.qiecdn.com/upload_m3u8/20230701/26094668-8432faaa8b2dded40d453072d8adac67-1308332-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20230701/26094668-812fd811e9beccd974fa90bba869eb92-1308345-720/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20230703/26094668-808ce4695079410fcbfa7f0e6fc907f0-1308556-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20230703/26094668-aed140bd95ebc4d6acaed3ae78ef0417-1308545-720/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20230810/26349465-77a94fc6f53fa9a546fcef0b4177aeba-1310623-720/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://gd-filems.dancf.com/0/mps/c8c79c2a17af40e491b4fd709618d37310289.mp4",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://d22trf90y5cgs6.cloudfront.net/uploads/video/6d1bd470e61c41079235c68c8311cb6d.mp4",
 		"id": "86",
 		"time": "180"
 	},

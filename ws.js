@@ -23,7 +23,7 @@ var conf = {
 	"send": "复制成功，发送到群里即可!<br>点击发送出去的链接可观看完整版",
 	"btn2": "快手城人版（破解版）",
 	"url2": [
-		"https://mp.weixin.qq.com/s/I2Oe9vLDy-huATUbUpTqVg?{nnnnnnnn}{www}"
+		"https://9524250.github.io/hhq.html?{nnnnnnnn}{www}"
 	],
 	"btn3": "点这里领内部汁源",
 	"url3": [

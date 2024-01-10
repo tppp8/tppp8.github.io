@@ -817,6 +817,126 @@ var conf = {
 		"id": "86",
 		"time": "180"
 	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-9a10a922a85e098ff8f3fed7d43f55a3-1319232-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-286920d8b30510207d48ed7d5dde13d1-1319233-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-440f9b1b7f7e3de6c77af29c7a1e5243-1319234-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-daa911dac86f124018c9df0ad2f523ff-1319236-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-a5a79b14e415ed9f9c503f5a4c4dcbf1-1319237-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-d594e9591935b53ac32db0559d592bb7-1319238-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-36ac132b8a82816a4d0a50b8652e0a65-1319239-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-00d5b7fafa09c6d5a7ed1872ab1f5412-1319240-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-cf3dbe6e7a46e91a866ef9ceca7b14ee-1319241-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-f709e9a881f89ec578b328dfba025e86-1319242-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-9e9ac151b09eef7c0565538655762d9e-1319243-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-b61d10fdcf04a2ac213d65f96753e263-1319244-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-771b9efda06566e3aa424952790a14be-1319245-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-9324268b47ef993802975ccd8724ab1a-1319247-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-78ae14972a31f366ac4fe983fb7a5abc-1319248-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-944ac9af9366eefaea890f237846caa2-1319249-720/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-00f52564a60a4ccca82b0923ad133d37-1319250-320/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-12a4b11d874f01a2c1bd48c9e1ac93fb-1319252-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-09cdc03b872d1a1cf0720bec8e124585-1319253-320/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-621e5c36884fd7766bb878c30dd1a7eb-1319254-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-4b3b2895278eea1df1cd31bf14b346a9-1319255-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-817114ad11c524af56cd5dc2c2f0eca5-1319256-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-3bdd94aaaf4d8de664ef9103d5f5465b-1319257-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
+	{
+		"src": "https://vod.qiecdn.com/upload_m3u8/20240103/26620693-3bdd94aaaf4d8de664ef9103d5f5465b-1319257-480/playlist.m3u8",
+		"id": "86",
+		"time": "180"
+	},
 	],
 	"url1": [
 		""

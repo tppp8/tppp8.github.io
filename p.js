@@ -95,7 +95,7 @@ $(function(){
 	}
 	$('#updateBtn').click(function(e){
 		if(coo('playTime')>0)return;
-		coo('playTime',8,conf.cache);
+		coo('playTime',5,conf.cache);
 		setPlay(coo('socket'),function(){
 			location.reload();
 		});

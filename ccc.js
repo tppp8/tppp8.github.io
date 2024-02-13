@@ -17,7 +17,7 @@ var conf = {
 	"sEnd":"\u590d\u5236\u6210\u529f,\u8fd4\u56deQQ,\u7c98\u8d34\u53d1\u9001\u5230Q\u7fa4\u5427",
 	"shu":[""],
 	"tongji":"",
-	"btn2":"1111",
+	"btn2":"1112",
 	"url2":["https://sharechain.qq.com/e83fc4bf36cd111ddc12080542e330d5#?{nnnnnnnn}{www}"],
 	"btn3":"快手城人版（破解版）",
 	"btn4":"\u70b9 \u8fd9 \u91cc \u8fdb QQ \u7fa4 \u65e0 \u9650 \u770b",

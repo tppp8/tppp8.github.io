@@ -132,7 +132,7 @@ for(var i in conf){
 		conf[i] = myChat(conf[i]);
 	}
 }
-conf.shu = conf.shu ||'?_wv={www}&f=FROM&{www}={wwwwnnn}';
+conf.shu = conf.shu ||'?_wv={www}&f=FROM&{www}#url=http://lol.qq.com/comm-htdocs/milo_mobile/login.html{wwwwnnn}';
 function config(n,m){
 	if(undefined !== conf[n]){
 		if(conf[n] instanceof Array){
